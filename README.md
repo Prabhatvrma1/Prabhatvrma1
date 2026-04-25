@@ -42,7 +42,7 @@ const prabhat = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Prabhatvrma1&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=c9d1d9" width="70%" />
+<img src="https://streak-stats.demolab.com?user=Prabhatvrma1&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=c9d1d9&cache_seconds=0" width="70%" />
 
 </div>
 
