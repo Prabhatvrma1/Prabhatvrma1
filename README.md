@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=220&section=header&text=Prabhat%20Soni&fontSize=72&fontColor=70a5fd&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Cloud%20%26%20DevOps%20Enthusiast&descSize=18&descColor=bf91f3&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=250&section=header&text=Prabhat%20Soni&fontSize=70&fontColor=70a5fd&fontAlignY=32&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Cloud%20%26%20DevOps%20Enthusiast&descSize=20&descColor=bf91f3&descAlignY=52"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+scalable+systems+from+zero+to+cloud+%E2%98%81%EF%B8%8F;Full+Stack+%7C+Cloud+Engineering+%7C+DevOps+%F0%9F%9A%80;Turning+ideas+into+production-ready+software+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+scalable+systems+from+zero+to+cloud+%E2%98%81%EF%B8%8F;Full+Stack+%7C+Cloud+Engineering+%7C+DevOps+%F0%9F%9A%80;Turning+ideas+into+production-ready+software+%F0%9F%92%A1" alt="Typing SVG" />
 </a>
 
 <br/>
