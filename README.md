@@ -178,15 +178,6 @@ const prabhat = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Prabhatvrma1&theme=tokyonight&no-frame=true&margin-w=10" alt="Trophies"/>
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
