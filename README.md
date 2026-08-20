@@ -1,18 +1,16 @@
+<!-- Profile Header -->
 <div align="center">
 
-<!-- Animated Header Banner -->
-<a href="https://github.com/Prabhatvrma1">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=250&section=header&text=Prabhat%20Soni&fontSize=70&fontColor=70a5fd&fontAlignY=32&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Cloud%20%26%20DevOps%20Enthusiast&descSize=20&descColor=bf91f3&descAlignY=52" alt="Header"/>
-</a>
+# 👋 Hi, I'm **Prabhat Soni**
 
-<!-- Typing SVG -->
+### Full Stack Developer | Cloud & DevOps Enthusiast
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Building+scalable+systems+from+zero+to+cloud+%E2%98%81%EF%B8%8F;Full+Stack+%7C+Cloud+Engineering+%7C+DevOps+%F0%9F%9A%80;Turning+ideas+into+production-ready+software+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=550&height=45&lines=Building+scalable+systems+from+zero+to+cloud+%E2%98%81%EF%B8%8F;Full+Stack+%7C+Cloud+Engineering+%7C+DevOps+%F0%9F%9A%80;Turning+ideas+into+production-ready+software+%F0%9F%92%A1" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views & Social Badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=Prabhatvrma1&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS" alt="Profile Views"/>
   &nbsp;
@@ -27,8 +25,7 @@
 
 </div>
 
-<!-- Horizontal Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
@@ -54,8 +51,7 @@ I like turning ideas into working systems — from writing APIs and database log
 
 <br clear="right"/>
 
-<!-- Horizontal Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;About Me — In Code
 
@@ -84,8 +80,7 @@ const prabhat = {
 };
 ```
 
-<!-- Horizontal Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ## 🛠️ Tech Stack
 
@@ -93,217 +88,148 @@ const prabhat = {
 
 ### 💻 Languages
 <p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=java,javascript,python&theme=dark" alt="Languages"/></a>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
 ### 🌐 Frontend
 <p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" alt="Frontend"/></a>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
 ### ⚙️ Backend
 <p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend"/></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" alt="REST API"/>
 </p>
 
 ### 🗄️ Databases
 <p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" alt="Databases"/></a>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
 ### ☁️ Cloud & DevOps
 <p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,terraform&theme=dark" alt="Cloud & DevOps"/></a>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
 </p>
 
 ### 🔧 Tools
 <p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" alt="Tools"/></a>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
 
 </div>
 
-<!-- Horizontal Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-### 🔥 [Production Ready Node.js REST API](https://github.com/Prabhatvrma1/production-ready-node-api)
-Production-focused Node.js REST API demonstrating backend and DevOps practices including REST API architecture, PostgreSQL, JWT authentication, Docker, GitHub Actions CI/CD, Logging, Testing, and production-ready project structure.
-
-**Tech:** `Node.js` · `Express.js` · `PostgreSQL` · `Docker` · `GitHub Actions`
-
-<a href="https://github.com/Prabhatvrma1/production-ready-node-api"><img src="https://img.shields.io/github/stars/Prabhatvrma1/production-ready-node-api?style=flat-square&color=38bdae&labelColor=1a1b27" alt="Stars"/></a>
-<a href="https://github.com/Prabhatvrma1/production-ready-node-api"><img src="https://img.shields.io/github/forks/Prabhatvrma1/production-ready-node-api?style=flat-square&color=bf91f3&labelColor=1a1b27" alt="Forks"/></a>
-
-</td>
-<td width="50%">
-
-### ☁️ [CloudForge](https://github.com/Prabhatvrma1/cloudforge)
-Cloud/DevOps focused project exploring modern cloud infrastructure, deployment and automation.
-
-**Tech:** `AWS` · `Docker` · `DevOps` · `Cloud Infrastructure`
-
-<a href="https://github.com/Prabhatvrma1/cloudforge"><img src="https://img.shields.io/github/stars/Prabhatvrma1/cloudforge?style=flat-square&color=38bdae&labelColor=1a1b27" alt="Stars"/></a>
-<a href="https://github.com/Prabhatvrma1/cloudforge"><img src="https://img.shields.io/github/forks/Prabhatvrma1/cloudforge?style=flat-square&color=bf91f3&labelColor=1a1b27" alt="Forks"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎵 [Music Player](https://github.com/Prabhatvrma1/musicplayer)
-A web-based music player application with a focus on API integration, dynamic music streaming and frontend development.
-
-**Tech:** `JavaScript` · `APIs` · `Web Development`
-
-<a href="https://github.com/Prabhatvrma1/musicplayer"><img src="https://img.shields.io/github/stars/Prabhatvrma1/musicplayer?style=flat-square&color=38bdae&labelColor=1a1b27" alt="Stars"/></a>
-<a href="https://github.com/Prabhatvrma1/musicplayer"><img src="https://img.shields.io/github/forks/Prabhatvrma1/musicplayer?style=flat-square&color=bf91f3&labelColor=1a1b27" alt="Forks"/></a>
-
-</td>
-<td width="50%">
-
-### 🧬 [Genetic Algorithm Product Selector](https://github.com/Prabhatvrma1/GenAlgo-Product-Selector)
-A web application that uses a Genetic Algorithm to find profitable product combinations under a given budget.
-
-**Tech:** `HTML` · `JavaScript` · `Genetic Algorithms`
-
-<a href="https://github.com/Prabhatvrma1/GenAlgo-Product-Selector"><img src="https://img.shields.io/github/stars/Prabhatvrma1/GenAlgo-Product-Selector?style=flat-square&color=38bdae&labelColor=1a1b27" alt="Stars"/></a>
-<a href="https://github.com/Prabhatvrma1/GenAlgo-Product-Selector"><img src="https://img.shields.io/github/forks/Prabhatvrma1/GenAlgo-Product-Selector?style=flat-square&color=bf91f3&labelColor=1a1b27" alt="Forks"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💰 [FinOps](https://github.com/Prabhatvrma1/finops)
-Financial operations application built with modern technologies.
-
-**Tech:** `TypeScript` · `Full Stack`
-
-<a href="https://github.com/Prabhatvrma1/finops"><img src="https://img.shields.io/github/stars/Prabhatvrma1/finops?style=flat-square&color=38bdae&labelColor=1a1b27" alt="Stars"/></a>
-<a href="https://github.com/Prabhatvrma1/finops"><img src="https://img.shields.io/github/forks/Prabhatvrma1/finops?style=flat-square&color=bf91f3&labelColor=1a1b27" alt="Forks"/></a>
-
-</td>
-<td width="50%">
-
-### 🤖 [NyayaMitra (HackInia Spark 7)](https://github.com/Prabhatvrma1/HackInia-Spark-7-2025-Pragati)
-AI legal chatbot making Indian law accessible using LLaMA 2 + RAG.
-
-**Tech:** `TypeScript` · `AI/ML` · `LLaMA 2` · `RAG`
-
-<a href="https://github.com/Prabhatvrma1/HackInia-Spark-7-2025-Pragati"><img src="https://img.shields.io/github/stars/Prabhatvrma1/HackInia-Spark-7-2025-Pragati?style=flat-square&color=38bdae&labelColor=1a1b27" alt="Stars"/></a>
-<a href="https://github.com/Prabhatvrma1/HackInia-Spark-7-2025-Pragati"><img src="https://img.shields.io/github/forks/Prabhatvrma1/HackInia-Spark-7-2025-Pragati?style=flat-square&color=bf91f3&labelColor=1a1b27" alt="Forks"/></a>
-
-</td>
-</tr>
-</table>
+| 🗂️ Project | 📝 Description | 🛠️ Tech |
+|:---|:---|:---|
+| [**Production Ready Node.js REST API**](https://github.com/Prabhatvrma1/production-ready-node-api) | Production-focused REST API with Docker, CI/CD, JWT Auth, PostgreSQL, Logging & Testing | `Node.js` `Express.js` `PostgreSQL` `Docker` `GitHub Actions` |
+| [**CloudForge**](https://github.com/Prabhatvrma1/cloudforge) | Cloud/DevOps project exploring modern cloud infrastructure & automation | `AWS` `Docker` `DevOps` `Cloud Infrastructure` |
+| [**Music Player**](https://github.com/Prabhatvrma1/musicplayer) | Web-based music player with API integration & dynamic streaming | `JavaScript` `APIs` `Web Development` |
+| [**GA Product Selector**](https://github.com/Prabhatvrma1/GenAlgo-Product-Selector) | Genetic Algorithm tool to find the most profitable product mix within budget | `HTML` `JavaScript` `Genetic Algorithms` |
+| [**FinOps**](https://github.com/Prabhatvrma1/finops) | Financial operations application | `TypeScript` `Full Stack` |
+| [**NyayaMitra**](https://github.com/Prabhatvrma1/HackInia-Spark-7-2025-Pragati) | AI legal chatbot making Indian law accessible using LLaMA 2 + RAG | `TypeScript` `AI/ML` `LLaMA 2` `RAG` |
 
 </div>
 
-<!-- Horizontal Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
 <p>
-  <a href="https://github.com/Prabhatvrma1">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Prabhatvrma1&show_icons=true&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&ring_color=38bdae" alt="GitHub Stats"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Prabhatvrma1">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhatvrma1&layout=compact&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Prabhatvrma1&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhatvrma1&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
 </p>
-
-<!-- Streak Stats -->
-<a href="https://github.com/Prabhatvrma1">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Prabhatvrma1&hide_border=true&background=0d1117&stroke=70a5fd&ring=bf91f3&fire=38bdae&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=70a5fd&sideLabels=bf91f3&dates=636e7b" alt="Streak Stats"/>
-</a>
-
-<!-- GitHub Trophies -->
-<br/><br/>
-<a href="https://github.com/Prabhatvrma1">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prabhatvrma1&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies"/>
-</a>
-
-<!-- Activity Graph -->
-<br/>
-<a href="https://github.com/Prabhatvrma1">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prabhatvrma1&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=bf91f3&hide_border=true" alt="Activity Graph"/>
-</a>
 
 </div>
 
-<!-- Horizontal Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Prabhatvrma1&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Prabhatvrma1&theme=tokyonight&no-frame=true&margin-w=10" alt="Trophies"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prabhatvrma1&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=bf91f3&hide_border=true" alt="Activity Graph"/>
+
+</div>
+
+---
 
 ## 🌱 Currently Learning
 
-<div align="center">
-
+```text
+Cloud Engineering         ✅ In Progress
+      ↓
+AWS Services              ✅ In Progress
+      ↓
+Docker & Containers       ✅ Done
+      ↓
+Kubernetes                📌 Learning
+      ↓
+Terraform / IaC           📌 Up Next
+      ↓
+CI/CD & Automation        ✅ Shipped
+      ↓
+Production Architecture   🔄 Ongoing
 ```
-                          ╔══════════════════════════════════════╗
-                          ║        🌩️  Cloud Engineering         ║
-                          ╚═══════════════╤══════════════════════╝
-                                          │
-                          ╔═══════════════╧══════════════════════╗
-                          ║           ☁️  AWS Services            ║
-                          ╚═══════════════╤══════════════════════╝
-                                          │
-                   ╔══════════════════════╧══════════════════════════╗
-                   ║          🐳  Docker & Containerization          ║
-                   ╚══════════════════════╤══════════════════════════╝
-                                          │
-                          ╔═══════════════╧══════════════════════╗
-                          ║          ☸️  Kubernetes                ║
-                          ╚═══════════════╤══════════════════════╝
-                                          │
-                   ╔══════════════════════╧══════════════════════════╗
-                   ║    🏗️  Terraform / Infrastructure as Code       ║
-                   ╚══════════════════════╤══════════════════════════╝
-                                          │
-                          ╔═══════════════╧══════════════════════╗
-                          ║       🔄  CI/CD & Automation          ║
-                          ╚═══════════════╤══════════════════════╝
-                                          │
-                   ╔══════════════════════╧══════════════════════════╗
-                   ║     🏛️  Production Cloud Architecture           ║
-                   ╚═════════════════════════════════════════════════╝
-```
-
-</div>
 
 > I'm currently focused on becoming stronger in **Cloud & DevOps** while continuing to build **full-stack applications**.
 
-<!-- Horizontal Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ## 💡 Areas I'm Interested In
 
-<div align="center">
+- 🏗️ Full Stack Development & Backend Engineering
+- ☁️ Cloud Engineering & AWS
+- 🔄 DevOps & CI/CD
+- ☸️ Kubernetes & Container Orchestration
+- 🏛️ Infrastructure as Code (Terraform)
+- 🌐 Distributed Systems
+- 🤖 AI-Powered Applications
+- 🔧 Infrastructure Automation
 
-| 🏗️ Development | ☁️ Cloud & Infrastructure | 🤖 Emerging |
-|:---:|:---:|:---:|
-| Full Stack Development | Cloud Engineering | AI-Powered Applications |
-| Backend Engineering | DevOps | Distributed Systems |
-| REST API Design | AWS | Automation |
-| Database Architecture | Kubernetes | Infrastructure as Code |
-
-</div>
-
-<!-- Horizontal Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ## 🐍 Contribution Snake
 
@@ -317,8 +243,7 @@ AI legal chatbot making Indian law accessible using LLaMA 2 + RAG.
 
 </div>
 
-<!-- Horizontal Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ## 🤝 Let's Connect
 
@@ -340,19 +265,7 @@ I'm always interested in connecting with developers, engineers and people workin
 
 ### 💬 Ask me about
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-</p>
+`Java` · `JavaScript` · `Node.js` · `React` · `REST APIs` · `MongoDB` · `PostgreSQL` · `Docker` · `AWS` · `CI/CD` · `Kubernetes`
 
 <br/>
 
@@ -363,6 +276,8 @@ I'm always interested in connecting with developers, engineers and people workin
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
 </div>
+
+---
 
 <!-- Animated Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=120&section=footer" alt="Footer"/>
