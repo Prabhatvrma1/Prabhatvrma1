@@ -1,11 +1,13 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=250&section=header&text=Prabhat%20Soni&fontSize=70&fontColor=70a5fd&fontAlignY=32&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Cloud%20%26%20DevOps%20Enthusiast&descSize=20&descColor=bf91f3&descAlignY=52"/>
+<a href="https://github.com/Prabhatvrma1">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=250&section=header&text=Prabhat%20Soni&fontSize=70&fontColor=70a5fd&fontAlignY=32&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Cloud%20%26%20DevOps%20Enthusiast&descSize=20&descColor=bf91f3&descAlignY=52" alt="Header"/>
+</a>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+scalable+systems+from+zero+to+cloud+%E2%98%81%EF%B8%8F;Full+Stack+%7C+Cloud+Engineering+%7C+DevOps+%F0%9F%9A%80;Turning+ideas+into+production-ready+software+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Building+scalable+systems+from+zero+to+cloud+%E2%98%81%EF%B8%8F;Full+Stack+%7C+Cloud+Engineering+%7C+DevOps+%F0%9F%9A%80;Turning+ideas+into+production-ready+software+%F0%9F%92%A1" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -130,29 +132,80 @@ const prabhat = {
 
 <div align="center">
 
-<a href="https://github.com/Prabhatvrma1/production-ready-node-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabhatvrma1&repo=production-ready-node-api&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9" />
-</a>
-&nbsp;
-<a href="https://github.com/Prabhatvrma1/cloudforge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabhatvrma1&repo=cloudforge&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9" />
-</a>
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/Prabhatvrma1/musicplayer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabhatvrma1&repo=musicplayer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9" />
-</a>
-&nbsp;
-<a href="https://github.com/Prabhatvrma1/GenAlgo-Product-Selector">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabhatvrma1&repo=GenAlgo-Product-Selector&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9" />
-</a>
+### 🔥 [Production Ready Node.js REST API](https://github.com/Prabhatvrma1/production-ready-node-api)
+Production-focused Node.js REST API demonstrating backend and DevOps practices including REST API architecture, PostgreSQL, JWT authentication, Docker, GitHub Actions CI/CD, Logging, Testing, and production-ready project structure.
 
-<a href="https://github.com/Prabhatvrma1/finops">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabhatvrma1&repo=finops&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9" />
-</a>
-&nbsp;
-<a href="https://github.com/Prabhatvrma1/HackInia-Spark-7-2025-Pragati">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabhatvrma1&repo=HackInia-Spark-7-2025-Pragati&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9" />
-</a>
+**Tech:** `Node.js` · `Express.js` · `PostgreSQL` · `Docker` · `GitHub Actions`
+
+<a href="https://github.com/Prabhatvrma1/production-ready-node-api"><img src="https://img.shields.io/github/stars/Prabhatvrma1/production-ready-node-api?style=flat-square&color=38bdae&labelColor=1a1b27" alt="Stars"/></a>
+<a href="https://github.com/Prabhatvrma1/production-ready-node-api"><img src="https://img.shields.io/github/forks/Prabhatvrma1/production-ready-node-api?style=flat-square&color=bf91f3&labelColor=1a1b27" alt="Forks"/></a>
+
+</td>
+<td width="50%">
+
+### ☁️ [CloudForge](https://github.com/Prabhatvrma1/cloudforge)
+Cloud/DevOps focused project exploring modern cloud infrastructure, deployment and automation.
+
+**Tech:** `AWS` · `Docker` · `DevOps` · `Cloud Infrastructure`
+
+<a href="https://github.com/Prabhatvrma1/cloudforge"><img src="https://img.shields.io/github/stars/Prabhatvrma1/cloudforge?style=flat-square&color=38bdae&labelColor=1a1b27" alt="Stars"/></a>
+<a href="https://github.com/Prabhatvrma1/cloudforge"><img src="https://img.shields.io/github/forks/Prabhatvrma1/cloudforge?style=flat-square&color=bf91f3&labelColor=1a1b27" alt="Forks"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎵 [Music Player](https://github.com/Prabhatvrma1/musicplayer)
+A web-based music player application with a focus on API integration, dynamic music streaming and frontend development.
+
+**Tech:** `JavaScript` · `APIs` · `Web Development`
+
+<a href="https://github.com/Prabhatvrma1/musicplayer"><img src="https://img.shields.io/github/stars/Prabhatvrma1/musicplayer?style=flat-square&color=38bdae&labelColor=1a1b27" alt="Stars"/></a>
+<a href="https://github.com/Prabhatvrma1/musicplayer"><img src="https://img.shields.io/github/forks/Prabhatvrma1/musicplayer?style=flat-square&color=bf91f3&labelColor=1a1b27" alt="Forks"/></a>
+
+</td>
+<td width="50%">
+
+### 🧬 [Genetic Algorithm Product Selector](https://github.com/Prabhatvrma1/GenAlgo-Product-Selector)
+A web application that uses a Genetic Algorithm to find profitable product combinations under a given budget.
+
+**Tech:** `HTML` · `JavaScript` · `Genetic Algorithms`
+
+<a href="https://github.com/Prabhatvrma1/GenAlgo-Product-Selector"><img src="https://img.shields.io/github/stars/Prabhatvrma1/GenAlgo-Product-Selector?style=flat-square&color=38bdae&labelColor=1a1b27" alt="Stars"/></a>
+<a href="https://github.com/Prabhatvrma1/GenAlgo-Product-Selector"><img src="https://img.shields.io/github/forks/Prabhatvrma1/GenAlgo-Product-Selector?style=flat-square&color=bf91f3&labelColor=1a1b27" alt="Forks"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💰 [FinOps](https://github.com/Prabhatvrma1/finops)
+Financial operations application built with modern technologies.
+
+**Tech:** `TypeScript` · `Full Stack`
+
+<a href="https://github.com/Prabhatvrma1/finops"><img src="https://img.shields.io/github/stars/Prabhatvrma1/finops?style=flat-square&color=38bdae&labelColor=1a1b27" alt="Stars"/></a>
+<a href="https://github.com/Prabhatvrma1/finops"><img src="https://img.shields.io/github/forks/Prabhatvrma1/finops?style=flat-square&color=bf91f3&labelColor=1a1b27" alt="Forks"/></a>
+
+</td>
+<td width="50%">
+
+### 🤖 [NyayaMitra (HackInia Spark 7)](https://github.com/Prabhatvrma1/HackInia-Spark-7-2025-Pragati)
+AI legal chatbot making Indian law accessible using LLaMA 2 + RAG.
+
+**Tech:** `TypeScript` · `AI/ML` · `LLaMA 2` · `RAG`
+
+<a href="https://github.com/Prabhatvrma1/HackInia-Spark-7-2025-Pragati"><img src="https://img.shields.io/github/stars/Prabhatvrma1/HackInia-Spark-7-2025-Pragati?style=flat-square&color=38bdae&labelColor=1a1b27" alt="Stars"/></a>
+<a href="https://github.com/Prabhatvrma1/HackInia-Spark-7-2025-Pragati"><img src="https://img.shields.io/github/forks/Prabhatvrma1/HackInia-Spark-7-2025-Pragati?style=flat-square&color=bf91f3&labelColor=1a1b27" alt="Forks"/></a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -164,21 +217,31 @@ const prabhat = {
 <div align="center">
 
 <p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prabhatvrma1&show_icons=true&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&ring_color=38bdae" alt="GitHub Stats"/>
+  <a href="https://github.com/Prabhatvrma1">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Prabhatvrma1&show_icons=true&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&ring_color=38bdae" alt="GitHub Stats"/>
+  </a>
   &nbsp;
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhatvrma1&layout=compact&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <a href="https://github.com/Prabhatvrma1">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhatvrma1&layout=compact&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  </a>
 </p>
 
 <!-- Streak Stats -->
-<img width="70%" src="https://streak-stats.demolab.com?user=Prabhatvrma1&hide_border=true&background=0d1117&stroke=70a5fd&ring=bf91f3&fire=38bdae&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=70a5fd&sideLabels=bf91f3&dates=636e7b" alt="Streak Stats"/>
+<a href="https://github.com/Prabhatvrma1">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Prabhatvrma1&hide_border=true&background=0d1117&stroke=70a5fd&ring=bf91f3&fire=38bdae&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=70a5fd&sideLabels=bf91f3&dates=636e7b" alt="Streak Stats"/>
+</a>
 
 <!-- GitHub Trophies -->
 <br/><br/>
-<img src="https://github-profile-trophy.vercel.app/?username=Prabhatvrma1&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies"/>
+<a href="https://github.com/Prabhatvrma1">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prabhatvrma1&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies"/>
+</a>
 
 <!-- Activity Graph -->
 <br/>
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prabhatvrma1&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=bf91f3&hide_border=true" alt="Activity Graph"/>
+<a href="https://github.com/Prabhatvrma1">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prabhatvrma1&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=bf91f3&hide_border=true" alt="Activity Graph"/>
+</a>
 
 </div>
 
@@ -302,4 +365,4 @@ I'm always interested in connecting with developers, engineers and people workin
 </div>
 
 <!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=120&section=footer" alt="Footer"/>
